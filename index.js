@@ -2,19 +2,19 @@
 // Your web app's Firebase configuration
 const firebaseConfig = {
 
-    apiKey: "AIzaSyBdPhzjGu_JNHGbOn-P-NXsAnZ9udG48sg",
+    apiKey: "",
 
-    authDomain: "webapp-9acbe.firebaseapp.com",
+    authDomain: "",
 
-    projectId: "webapp-9acbe",
+    projectId: "",
 
-    storageBucket: "webapp-9acbe.appspot.com",
+    storageBucket: "",
 
-    messagingSenderId: "628876071463",
+    messagingSenderId: "",
 
-    appId: "1:628876071463:web:77a6d12e198c69d3fc7402",
+    appId: "",
 
-    measurementId: "G-YPXX6VL98J"
+    measurementId: ""
 
   };
 
